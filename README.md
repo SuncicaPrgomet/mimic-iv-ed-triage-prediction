@@ -1,6 +1,6 @@
 MIMIC-IV-ED Triage Acuity Prediction
 
-Personal / academic machine learning project exploring how far data manipulation and modeling choices can push predictive performance on a real, messy clinical dataset — predicting emergency department (ED) triage acuity (urgency level, 1–5) from vital signs and free-text chief complaints.
+Academic machine learning project exploring how far data manipulation and modeling choices can push predictive performance on a real, messy clinical dataset — predicting emergency department (ED) triage acuity (urgency level, 1–5) from vital signs and free-text chief complaints.
 
 This is an independent personal/academic project using the credentialed MIMIC-IV-ED research dataset. No MIMIC data is included in this repository.
 
